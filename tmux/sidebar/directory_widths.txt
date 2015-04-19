@@ -1,0 +1,2 @@
+/home/tmiranda/vm/rtc-switchboard	42
+/home/tmiranda/opt/tcc	40
