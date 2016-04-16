@@ -58,6 +58,9 @@ set -g pane-border-style fg=black
 set -g pane-active-border-style fg=blue
 set -g pane-active-border-style bg=default
 
+## keys fix
+set-window-option -g xterm-keys on
+
 ## ---------------------
 ## Clock
 ## ---------------------
