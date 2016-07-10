@@ -1,0 +1,7 @@
+pane	bigland	0	:bash	1	:*	0	:/home/tmiranda	1	bash	:
+pane	dev	0	:bash	1	:*	0	:/home/tmiranda	1	bash	:
+pane	emacs	0	:bash	1	:*	0	:/home/tmiranda	1	bash	:
+window	bigland	0	1	:*	c3df,239x64,0,0,2
+window	dev	0	1	:*	c3dd,239x64,0,0,0
+window	emacs	0	1	:*	c3de,239x64,0,0,1
+state	dev	

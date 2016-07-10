@@ -1,2 +1,11 @@
-/home/tmiranda/vm/rtc-switchboard	42
-/home/tmiranda/opt/tcc	40
+/var/www/dusu-services	40
+/var/www/dusu-services	40
+/var/www/bigland/bigland-hunter	40
+/var/www/bigland/bigland-hunter	40
+/var/www/bigland/bigland-app	40
+/var/www/bigland/bigland-app	40
+/var/www/meny/app/front	40
+/var/www/meny/app/static	40
+/var/www/bigland/bigland-app	40
+/var/www/bigland/bigland-api	40
+/var/www/bigland/bigland-app	40

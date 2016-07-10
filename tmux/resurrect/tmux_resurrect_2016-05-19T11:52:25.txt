@@ -1,0 +1,27 @@
+pane	bigland	0	:bash	1	:*	0	:/var/www/bigland/bigland-app	0	npm	:npm
+pane	bigland	0	:bash	1	:*	1	:/var/www/bigland/bigland-app	0	bash	:
+pane	bigland	0	:bash	1	:*	2	:/var/www/bigland/bigland-hunter	0	npm	:npm
+pane	bigland	0	:bash	1	:*	3	:/var/www/bigland/bigland-api	0	bash	:
+pane	bigland	0	:bash	1	:*	4	:/var/www/bigland/bigland-api	1	bash	:
+pane	bigland	1	:bash	0	:-	0	:/var/www/bigland/bigland-app	1	bash	:
+pane	dev	0	:bash	1	:*	0	:/home/tmiranda	1	bash	:
+pane	dusu	0	:bash	1	:*	0	:/var/www/dusu/dusu-frontend/app/front	0	npm	:npm
+pane	dusu	0	:bash	1	:*	1	:/var/www/dusu/dusu-frontend	1	bash	:
+pane	dusu	0	:bash	1	:*	2	:/var/www/dusu-services	0	npm	:npm
+pane	dusu	0	:bash	1	:*	3	:/var/www/dusu-services	0	bash	:
+pane	dusu	1	:bash	0	:-	0	:/home/tmiranda	1	bash	:
+pane	emacs	0	:bash	1	:*	0	:/home/tmiranda	1	emacs-nox	:emacs-nox
+pane	meny	0	:bash	1	:*	0	:/var/www/meny/app/front	0	bash	:
+pane	meny	0	:bash	1	:*	1	:/var/www/meny/app/front	0	bash	:
+pane	meny	0	:bash	1	:*	2	:/var/www/meny/app	0	bash	:
+pane	meny	0	:bash	1	:*	3	:/var/www/meny/app/static	1	bash	:
+pane	meny	0	:bash	1	:*	4	:/var/www/meny/app	0	node	:node /home/tmiranda/.nvm/versions/node/v4.4.3/bin/pm2 logs
+pane	meny	0	:bash	1	:*	5	:/var/www/meny/app/server	0	npm	:npm
+window	bigland	0	1	:*	7155,274x66,0,0{91x66,0,0[91x38,0,0,2,91x27,0,39,20],92x66,92,0[92x23,92,0,7,92x42,92,24,21],89x66,185,0,12}
+window	bigland	1	0	:-	655f,274x66,0,0,10
+window	dev	0	1	:*	c1dd,273x64,0,0,0
+window	dusu	0	1	:*	ad12,274x66,0,0{136x66,0,0[136x33,0,0,25,136x32,0,34,28],137x66,137,0[137x28,137,0,17,137x37,137,29,27]}
+window	dusu	1	0	:-	6567,274x66,0,0,18
+window	emacs	0	1	:*	ca5e,274x66,0,0,1
+window	meny	0	1	:*	91fb,274x66,0,0{88x66,0,0[88x33,0,0,35,88x32,0,34,38],94x66,89,0[94x33,89,0,36,94x32,89,34,40],90x66,184,0[90x33,184,0,37,90x32,184,34,39]}
+state	emacs	
